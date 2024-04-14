@@ -17,10 +17,12 @@ body {
 
   }
   h1 {
+    text-align: center;
+    font-size: 2em;
+    margin: auto;
     color: black;
     font-style: normal;
-    
-    
+
   }
   
   video {
@@ -66,11 +68,5 @@ body {
   }
 
   #webcam{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    width: 60%;
-    height: 60%;
-    border: 5px solid black;
-    padding: 20px;
+      margin: auto;
   }
